@@ -6,12 +6,7 @@ This role can install Lighthouse
 Requirements
 ------------
 
--
-
-Role Variables
---------------
-
--
+Ansible >= 2.7 (It might work on previous versions, but we cannot guarantee it)
 
 Dependencies
 ------------
@@ -27,12 +22,3 @@ Including an example of how to use your role (for instance, with variables passe
       roles:
          - { role: lighthouse-role }
 
-License
--------
-
-MIT
-
-Author Information
-------------------
-
-Ewgenij Osrowskij
